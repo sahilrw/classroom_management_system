@@ -19,41 +19,41 @@ Various functionalities are provided based on the user category either student/t
 
 ## System Design & Flow Chart
 
-![System Design]()
+![System Design](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/SystemDesign.png)
 
-![Flow Chart]()
+![Flow Chart](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/Flowchart.png)
 
 ## Project Screenshots
 **Home Page:**
 It gives a general Information regarding to the website and users have to login or Signup to access the Website.
 
-![Home Page]()
+![Home Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss1.png)
 
-![Home Page]()
+![Home Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss2.png)
 
 **Sign Up page:** 
 There are two user’s option while signing up. One is for Student’s and one is for Teacher’s. 
 
-![Main Page]()
+![Main Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss3.png)
 
 - Both the user’s have to fill a form based on their category. User can register by giving their Name, Username, Email, and Password. All this data will be stored in the database.
 
-  ![User Data]()
+  ![User Data](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss4.png)
 
 **Login page:**
 Already registered users can login directly with their username and password to access the website. 
 
-![Login Page]()
+![Login Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss5.png)
 
 **Student Page:**
 For a login through a student’s account the following are the different functions/options provided. A student can access them based on their requirements.
 
-![Student Page]()
+![Student Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss6.png)
 
 **Teacher Page:** 
 For a login through a Teacher’s account the following are the different functions/options provided. A Teacher can access them based on their requirements.
 
-![Teacher Page]()
+![Teacher Page](https://github.com/parthd06/Python-Classroom_Management_System/blob/main/Extras/Screenshot/ss7.png)
 
 ## System Requirements
 
