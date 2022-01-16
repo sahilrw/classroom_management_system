@@ -15,7 +15,7 @@ Various functionalities are provided based on the user category either student/t
  - [@parthdali](https://github.com/parthd06)
  - [@pranavdalvi](https://github.com/PRANAVD-10)
  - [@vikaschaurasiya](https://github.com/vikas-348)
- - [@himanshuchaurasiya](https://github.com/ShivamB10)
+ - [@himanshuchaurasiya](https://github.com/Himanshuchaurasiya1234)
 
 ## System Design & Flow Chart
 
