@@ -1,9 +1,14 @@
 services:
   - type: web
-    name: classmanager
+    name: classmanager-django
     env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn classmanager.wsgi
+    buildCommand: |
+      pip install -r requirements.txt
+    startCommand: gunicorn classmanager.wsgi:application
     envVars:
       - key: DJANGO_SECRET_KEY
         value: 13x8r2se41dawv$7!a-p_h4ni$^i^+r@le7wuadd6gmzb=$ss*
+      - key: PYTHON_VERSION
+        value: 3.10
+      - key: DJANGO_SETTINGS_MODULE
+        value: classmanager.settings
